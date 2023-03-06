@@ -1,6 +1,6 @@
 # HellGitHub
 
-#AHOJ SVĚTE
+# AHOJ SVĚTE
 
 https://educhem.cz
 
